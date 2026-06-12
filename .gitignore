@@ -1,0 +1,6 @@
+*.log
+*.csv
+*.sql
+*.json
+bin
+obj
