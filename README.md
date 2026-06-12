@@ -86,7 +86,3 @@ This repository does not include a test project by default. To add tests, create
 
 ## License
 No license specified. Add a `LICENSE` file if you intend to open-source this project.
-
----
-
-If you'd like, I can add example responses for the endpoints, add OpenAPI/Swagger setup, or wire up a sample database connection string in `appsettings.Development.json`.
