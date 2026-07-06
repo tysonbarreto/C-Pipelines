@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="CustomerSync.Api/CustomerSync.Api.csproj" />
+  <Project Path="CustomerSync.Application/CustomerSync.Application.csproj" />
+  <Project Path="CustomerSync.Domain/CustomerSync.Domain.csproj" />
+  <Project Path="CustomerSync.Infrastructure/CustomerSync.Infrastructure.csproj" />
+  <Project Path="CustomerSync.Persistance/CustomerSync.Persistance.csproj" />
+  <Project Path="CustomerSync.UnitTests/CustomerSync.UnitTests.csproj" />
+  <Project Path="CustomerSync.Worker/CustomerSync.Worker.csproj" />
+</Solution>
